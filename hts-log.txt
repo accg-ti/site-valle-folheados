@@ -1,0 +1,14 @@
+HTTrack3.50-5 launched on Sun, 18 Oct 2026 17:17:37 at https://vallefolheados.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "pt_BR, en, *" https://vallefolheados.com.br/ -O1 "C:\Users\GuilhermeTerra\Downloads\Site teste\Copia site valle" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:18:12	Error: 	"Not Found" (404) at link https://vallefolheados.com.br/__trf.src (from https://d335luupugsy2.cloudfront.net/js/loader-scripts/cc208c16-de6f-4b2b-b761-06ffb6572222-loader.js)
+17:18:12	Error: 	"Forbidden" (403) at link https://d335luupugsy2.cloudfront.net/js/loader-scripts/__trf.src (from https://d335luupugsy2.cloudfront.net/js/integration/2.0.0/rd-js-integration.min.js?v=1)
+
+HTTrack Website Copier/3.50-5 mirror complete in 35 seconds : 44 links scanned, 41 files written (7264427 bytes overall) [6932744 bytes received at 198078 bytes/sec], 441930 bytes transferred using HTTP compression in 5 files, ratio 10%, 6.2 requests per connection
+(2 errors, 0 warnings, 0 messages)
+(Some links above the start directory were not mirrored. Pass -B (--can-go-up-and-down) to mirror them.)
